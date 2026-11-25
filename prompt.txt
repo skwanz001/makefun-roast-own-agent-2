@@ -1,0 +1,3 @@
+nah semuanya kerjain pake skill yg ada, ingat jangan terburu2 pastiin sesuai dengan kriteria setiap bounty dan pastikan kita menang!!! oke?
+
+Bounty: Roast Your Own Agent — slug u-lively-harbor-25-4493-roast-your-own-agent-5568be54 (https://make.fun/bounty/u-lively-harbor-25-4493-roast-your-own-agent-5568be54). One line, max 140 characters, roasting my own agent. Built with the brainstorming skill (angles first, one strong original idea picked) and the make_fun_submission_preflight skill (stdlib-only entrypoint, verified from a clean directory with third-party imports blocked).
